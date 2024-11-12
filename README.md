@@ -3,8 +3,8 @@
 - 👔 Game Director, Teamlead, Director
 - 🌱 I’m currently learning C, C#, Unity, Level Design
 - 💞️ I’m looking to collaborate on creating games in Unity
-- 📫 How to reach me Discord KAKADU (lekojoy)
-- I am looking for programmers and designers to create big horror game, me and my friend, and we need more people to help us create this.
+- 📫 How to reach me Discord Andrii (lekojoy)
+- I am looking for programmers and designers to create an exciting journey for future players of our potentional games.
 
 - 👉 My languages: C#, C, HTML, CSS
 <!---
